@@ -1,6 +1,6 @@
 
 package vehiculo;
-
+//Autor: Diego Lipa
 public class Principal {
     public static void main(String[] args) {
         //instanciar = invicar = llamar a un objeto
